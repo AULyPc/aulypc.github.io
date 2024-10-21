@@ -2,7 +2,7 @@
 title: La prière
 published: 2024-03-22
 description: "介绍下喜欢的同人音乐组合之一，La prière"
-image: "https://image.aulypc0x0.online/data/La_priere/body_110246.jpeg"
+image: "https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/La_priere/body_110246.jpeg"
 tags: ["同人音乐", "La prière"]
 category: 同人音乐
 draft: false
@@ -23,9 +23,9 @@ draft: false
 简单来说是一个三人组合，分别是：  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/La_priere/zao.png" border=0 width=300 height="" title="棗いつき"></td>
-<td><img src="https://image.aulypc0x0.online/data/La_priere/lanyue.png" border=0 width=270 height="" title="藍月なくる"></td>
-<td><img src="https://image.aulypc0x0.online/data/La_priere/nayuta.png" border=0 width=300 height="" title="nayuta"></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/La_priere/zao.png" border=0 width=300 height="" title="棗いつき"></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/La_priere/lanyue.png" border=0 width=270 height="" title="藍月なくる"></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/La_priere/nayuta.png" border=0 width=300 height="" title="nayuta"></td>
 </tr></table>
 
 > 依次是  

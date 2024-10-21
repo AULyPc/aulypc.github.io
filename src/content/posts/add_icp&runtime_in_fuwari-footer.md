@@ -2,7 +2,7 @@
 title: 如何在Fuwari页脚添加ICP、运行时间等信息
 published: 2024-09-04
 description: '如何在Fuwari页脚添加ICP、运行时间等信息'
-image: 'https://image.aulypc0x0.online/img/89478080_p1.webp'
+image: 'https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/img/89478080_p1.webp'
 tags: [Fuwari, 搭建]
 category: '网站'
 draft: false 
@@ -13,10 +13,10 @@ language: ''
 :::
 > ### footer添加备案、又拍云CDN、运行时间等信息
 > 本来想用[shields](https://shields.io/)的图标的  
-> <img src="https://image.aulypc0x0.online/data/how_to_build_your_website/shields_logo.png" width="70%" title=""/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/how_to_build_your_website/shields_logo.png" width="70%" title=""/>
 > 结果有点不搭，有点难看  
 > 还是简单点的好  
-> <img src="https://image.aulypc0x0.online/data/how_to_build_your_website/footer_logo.png" width="70%" title="默认图标"/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/how_to_build_your_website/footer_logo.png" width="70%" title="默认图标"/>
 > 
 > :::note
 > 此部分参考 [Morse Hsiao](https://ihsiao.com/posts/blogs/use-astro/) 这位大佬的教程  

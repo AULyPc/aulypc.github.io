@@ -2,7 +2,7 @@
 title: M3-53th(2024年春)战利品
 published: 2024-05-02
 description: "2024春M3买的CD到了!"
-image: "https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/set_2.webp"
+image: "https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/set_2.webp"
 tags: ["同人音乐", "M3-53th"]
 category: 同人音乐
 draft: false
@@ -30,9 +30,9 @@ draft: false
 > 本来想签个两人签的，结果群友告诉我跑了几次如月梢都不在，很遗憾只签了sola的  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/set_1.webp" border=0 width=300 height="" ></td>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/set_2.webp" border=0 width=300 height="" ></td>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/set_3.webp" border=0 width=300 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/set_1.webp" border=0 width=300 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/set_2.webp" border=0 width=300 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/set_3.webp" border=0 width=300 height="" ></td>
 </tr></table>
 
 > 下面是跟别人一起拼车买的  
@@ -40,8 +40,8 @@ draft: false
 > 图2是yuiko的签名旧谱，新谱去的晚没了，我哭😭  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/1.webp" border=0 width= height=240 ></td>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/yuiko_sign.webp" border=0 width=300 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/1.webp" border=0 width= height=240 ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/yuiko_sign.webp" border=0 width=300 height="" ></td>
 </tr></table>
 
 > 下面是去年2023秋M3找的代购  
@@ -52,9 +52,9 @@ draft: false
 > 以及狛茉璃奈的无料  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/risa_cd.webp" border=0 width=300 height="" ></td>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/imy_sign.webp" border=0 width=230 height="" ></td>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/2.webp" border=0 width=300 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/risa_cd.webp" border=0 width=300 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/imy_sign.webp" border=0 width=230 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/2.webp" border=0 width=300 height="" ></td>
 </tr></table>
 
 > 还有群友帮忙买的这次糖的新专以及arforest的una  
@@ -80,9 +80,9 @@ draft: false
 > 以下是到手的战利品  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/cd_front.webp" border=0 width=300 height="" ></td>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/cd_back.webp" border=0 width=300 height="" ></td>
-<td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/3.webp" border=0 width=300 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/cd_front.webp" border=0 width=300 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/cd_back.webp" border=0 width=300 height="" ></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/3.webp" border=0 width=300 height="" ></td>
 </tr></table>
 
 > 图1图2如月这个CD我一开始还不敢直接上手拿  
@@ -101,4 +101,4 @@ draft: false
 > 还附赠fanbox特典，就是图片下面的明信片  
 > 这次的封绘是真可爱~  
 > 以上！  
-<center><td><img src="https://image.aulypc0x0.online/data/M3_53th_2024_spring_senrihin/set_5.webp" border=0 width=400 height="" ></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_53th_2024_spring_senrihin/set_5.webp" border=0 width=400 height="" ></td></center>

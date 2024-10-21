@@ -2,7 +2,7 @@
 title: 白羽ねむ
 published: 2024-05-30
 description: '记录下自己很喜欢的V'
-image: 'https://image.aulypc0x0.online/data/shiroha_nemu/shiroha_nemu.webp'
+image: 'https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/shiroha_nemu.webp'
 tags: [日常, 表情包, 白羽ねむ]
 category: 'vtuber'
 draft: false
@@ -12,19 +12,19 @@ language: ''
  <p style="text-align:center;color:#5a79ba;font-size:1.2em;font-weight: bold;">“今日も生きててえらい！！☁” “今天也好好活着真是了不起！！☁” </p>
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/shiroha_nemu/1.webp" border=0 width=200 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/shiroha_nemu/kirakira.webp" border=0 width=200 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/shiroha_nemu/3.webp" border=0 width=200 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/1.webp" border=0 width=200 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/kirakira.webp" border=0 width=200 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/3.webp" border=0 width=200 height=""></td>
 </tr></table>
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/shiroha_nemu/4.webp" border=0 width=200 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/shiroha_nemu/5.webp" border=0 width=200 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/shiroha_nemu/zako.webp" border=0 width=200 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/4.webp" border=0 width=200 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/5.webp" border=0 width=200 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/zako.webp" border=0 width=200 height=""></td>
 </tr></table>
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/shiroha_nemu/7.webp" border=0 width=200 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/shiroha_nemu/8.webp" border=0 width=200 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/shiroha_nemu/9.webp" border=0 width=200 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/7.webp" border=0 width=200 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/8.webp" border=0 width=200 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/shiroha_nemu/9.webp" border=0 width=200 height=""></td>
 </tr></table>
 
 [nemu表情包搬运 点我跳转](https://www.bilibili.com/opus/815622449975525442)

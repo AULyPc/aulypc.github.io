@@ -2,7 +2,7 @@
 title: 利用giscus给你的网站添加评论功能
 published: 2024-09-06
 description: '利用 GitHub Discussions 实现的评论系统，让访客借助 GitHub 在你的网站上留下评论'
-image: 'https://image.aulypc0x0.online/img/88886922_p0.webp'
+image: 'https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/img/88886922_p0.webp'
 tags: [Fuwari, 搭建, 评论]
 category: '网站'
 draft: false 
@@ -26,30 +26,30 @@ language: ''
 > 1. 访问[giscus配置页面](https://giscus.app/zh-CN)
 
 > 2. 选择你想要显示的语言  
-> <img src="https://image.aulypc0x0.online/data/add_comment_for_your_website_in_fuwari/language.png" width="70%" title=""/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/language.png" width="70%" title=""/>
 
 > 3. 创建一个符合要求的仓库  
-> <img src="https://image.aulypc0x0.online/data/add_comment_for_your_website_in_fuwari/cangku.png" width="70%" title=""/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/cangku.png" width="70%" title=""/>
 > 分别点击蓝色字体，可直接跳转到相关设置页面  
 > 在满足上述3点要求后，输入你的[用户名/仓库名]  
 > 才会显示 ```成功!该仓库满足所以条件```  
 
 > 4. 页面 ↔️ discussion 映射关系
-> <img src="https://image.aulypc0x0.online/data/add_comment_for_your_website_in_fuwari/page-discussion.png" width="70%" title=""/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/page-discussion.png" width="70%" title=""/>
 > 无其他需求的话，默认即可  
 
 > 5. Discussion 分类
-> <img src="https://image.aulypc0x0.online/data/add_comment_for_your_website_in_fuwari/discussion_fenlei.png" width="70%" title=""/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/discussion_fenlei.png" width="70%" title=""/>
 > 同样的，无其他需求的话，默认即可  
 
 > 6. 特性
-> <img src="https://image.aulypc0x0.online/data/add_comment_for_your_website_in_fuwari/texing.png" width="70%" title=""/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/texing.png" width="70%" title=""/>
 > 按需选择即可  
 > 推荐勾选上 ```将评论框放在评论上方``` 方便用户发表评论  
 > 懒加载看情况进行选择，我这里就没选  
 
 > 7. 主题
-> <img src="https://image.aulypc0x0.online/data/add_comment_for_your_website_in_fuwari/giscus_theme.png" width="70%" title=""/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/add_comment_for_your_website_in_fuwari/giscus_theme.png" width="70%" title=""/>
 > 默认即可  
 > 但对于经常切换白天/黑暗模式的用户来说可能不是很友好  
 > 博主这里选择的是 ```用户偏好的色彩方案```  

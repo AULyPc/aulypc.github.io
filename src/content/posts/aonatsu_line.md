@@ -2,7 +2,7 @@
 title: 青夏轨迹
 published: 2024-07-18
 description: '如此难忘的夏天，今生仅此一次。如此难忘的夏天，今生仅此一次。'
-image: 'https://image.aulypc0x0.online/data/aonatsu_line/20231207171811_1.webp'
+image: 'https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/aonatsu_line/20231207171811_1.webp'
 tags: [galgame, 游戏]
 category: '游戏'
 draft: false
@@ -29,9 +29,9 @@ language: ''
 > 每位都正中我的好球区  尤其是 夏服xJKx大白腿 ，无疑代表了整个夏季，代表了整个青春。
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/aonatsu_line/20231202184741_1.webp" border=0 width=260 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/aonatsu_line/20231224161659_1.webp" border=0 width=260 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/aonatsu_line/20231224164416_1.webp" border=0 width=260 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/aonatsu_line/20231202184741_1.webp" border=0 width=260 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/aonatsu_line/20231224161659_1.webp" border=0 width=260 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/aonatsu_line/20231224164416_1.webp" border=0 width=260 height=""></td>
 </tr></table>
 
 > 截至撰写本文时，只推完了青梅海希线  
@@ -55,9 +55,9 @@ language: ''
 > 但是我还是好tmd羡慕  
 > 所以什么时候能有个青梅JK用大腿夹我的脸x  
 
-<center><img src="https://image.aulypc0x0.online/data/aonatsu_line/20231202190027_1.webp" border=0 width=500 height=></center>
+<center><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/aonatsu_line/20231202190027_1.webp" border=0 width=500 height=></center>
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/aonatsu_line/20240718194914.webp" border=0 width=260 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/aonatsu_line/20240718194921.webp" border=0 width= height=300></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/aonatsu_line/20240718194914.webp" border=0 width=260 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/aonatsu_line/20240718194921.webp" border=0 width= height=300></td>
 </tr></table>

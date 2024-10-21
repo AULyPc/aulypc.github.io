@@ -2,7 +2,7 @@
 title: 2024端午团建Day1
 published: 2024-06-17
 description: "2024端午团建Day1"
-image: "https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_152017.webp"
+image: "https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_152017.webp"
 tags: ["日常", "团建"]
 category: 日常
 draft: false
@@ -35,7 +35,7 @@ draft: false
 
 > 路上三个 ~~__二次元__~~ 背着拉普哩的痛包，成为路上的一道靓丽的风景线，吸引不少人的目光  
 
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_125953.webp" border=0 width=400 height="" ></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_125953.webp" border=0 width=400 height="" ></td></center>
 
 <p style="text-align:center">
  <span style="color:#e95295; "> 糖痴、</span>
@@ -51,8 +51,8 @@ draft: false
 ## 饭饭、饿饿
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/fan.webp" border=0 width=250 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/chi.webp" border=0 width=250 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/fan.webp" border=0 width=250 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/chi.webp" border=0 width=250 height=""></td>
 </tr></table>
 <p style="text-align:center">
  <span style="color:#7058a3; "> 群友先吃</span>
@@ -63,7 +63,7 @@ draft: false
 
 > 人是铁饭是钢，一顿不吃饿得慌，吃饱喝足游玩才有力气  
 > 顺便还有<span style="color:#f8b500; "> 饭后甜点</span>  
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_143214_1.webp" border=0 width=400 height="" ></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_143214_1.webp" border=0 width=400 height="" ></td></center>
 
 > 甜点名字叫什么我忘记了，味道好像是<span style="color:#fbca4d; "> 芒果？</span><span style="color:#ffd900; "> 还是香蕉？</span>  
 > 口感类似冰沙，一口吃太多太凉了，牙齿和脑袋受不住  
@@ -71,7 +71,7 @@ draft: false
 > 后悔没拍勺子的照片  
 
 > 饭后的拉普哩痛包合照  
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/bao.webp" border=0 width=400 height="" ></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/bao.webp" border=0 width=400 height="" ></td></center>
 <p style="text-align:center">依次是
  <span style="color:#0094c8; "> 藍月痴静念的天下无敌声线可爱的藍月痛包、</span>
  <span style="color:#f7c114; "> 棗痴马鹿教主的帅气迷人阳光自信的棗痛包、</span>
@@ -88,8 +88,8 @@ draft: false
 > 饭后众人踏上前往玄武湖的征程x  
 > 路过商场ps的宣传  
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_145819.webp" border=0 width=250 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/ailuoyi.webp" border=0 width=250 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_145819.webp" border=0 width=250 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/ailuoyi.webp" border=0 width=250 height=""></td>
 </tr></table>
 
 > 西之绝境今年终于上pc了，作为地平线的第二部，故事又推进了一大步  
@@ -102,8 +102,8 @@ draft: false
 -----------------------------------------------------
 ## 到达玄武湖，太美丽了吧
 <center><table><tr>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_152017.webp" border=0 width=250 height=""></td>
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_152529.webp" border=0 width=250 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_152017.webp" border=0 width=250 height=""></td>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_152529.webp" border=0 width=250 height=""></td>
 </tr></table></center>
 
 > 这应该是我第二次来玄武湖  
@@ -112,9 +112,9 @@ draft: false
 > 这次小团体端午第二次来，<span style="color:#b7282e;font-size:1.4em;font-weight: bold;">好热啊~~~</span>  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_152546.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_152732.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_154145.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_152546.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_152732.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_154145.webp" border=0 width=220 height=""></td>
 </tr></table>
 
 <p style="text-align:center">不知名的
@@ -131,19 +131,19 @@ draft: false
 > 引用某人的一句名言x：<p style="color:#aa4c8f;font-size:1.2em;font-weight:bold;"> 之前不懂为什么要买碟，现在后悔以前为什么不买碟 </p>  
 <p style="color:#e5abbe;font-size:1.2em;font-weight:bold;"> 进口二次元塑料小飞盘 </p>
 
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/mingyan.webp" border=0 width=400 height="" ></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/mingyan.webp" border=0 width=400 height="" ></td></center>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 被指正了x </p>
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/2ciyuan.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_165423.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_173218.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/2ciyuan.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_165423.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_173218.webp" border=0 width=220 height=""></td>
 </tr></table>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 一些随手拍的风景 </p>
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_171025.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_171652.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_171025.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_171652.webp" border=0 width=220 height=""></td>
 </tr></table>
 <p style="text-align:center;color:#7058a3;font-size:1.0em;"> 一堆咕咕咕，想勾引几只却不过来 </p>
 
@@ -162,9 +162,9 @@ draft: false
 > 不过紫月来时坐地铁却多坐了两站x  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_193354.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_190019.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/IMG_20240608_193029.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_193354.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_190019.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/IMG_20240608_193029.webp" border=0 width=220 height=""></td>
 </tr></table>
 
 ------------------------------------------
@@ -188,4 +188,4 @@ draft: false
 > 一直打牌打到深夜  
 > 后面熬不住了，就散伙睡觉去了  
 > 睡前我还清了下pjsk和bangdream的体力()  
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day1/uno_1.webp" border=0 width=330 height="" ></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day1/uno_1.webp" border=0 width=330 height="" ></td></center>

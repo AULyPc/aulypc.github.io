@@ -2,7 +2,7 @@
 title: welcom to osu !
 published: 2024-03-22
 description: "Oh! Shit! Uninstall!"
-image: "https://image.aulypc0x0.online/data/OSU/3.webp"
+image: "https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/OSU/3.webp"
 tags: ["osu", "音游","日常"]
 category: 游戏
 draft: false
@@ -33,9 +33,9 @@ draft: false
 </p>
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/OSU/3.webp" border=0 width=230 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/OSU/2.webp" border=0 width=230 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/OSU/4.webp" border=0 width=230 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/OSU/3.webp" border=0 width=230 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/OSU/2.webp" border=0 width=230 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/OSU/4.webp" border=0 width=230 height=""></td>
 </tr></table>
 
 <p style="text-align:center"><span  style="color:#e95464; "> 
@@ -47,12 +47,12 @@ draft: false
 > 全球排名直接飞了1w多名，全国排名飞了8k多  
 > 室友看我跟个傻子似的x  
 
-<td><img src="https://image.aulypc0x0.online/data/OSU/8.webp" border=0 width=640 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/OSU/8.webp" border=0 width=640 height=""></td>
 <p style="text-align:center"><span  style="color:#e95464; "> 
   100pp成绩图</span>
 </p>
 
-<td><img src="https://image.aulypc0x0.online/data/OSU/1.webp" border=0 width=640 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/OSU/1.webp" border=0 width=640 height=""></td>
 <p style="text-align:center"><span  style="color:#e95464; "> 
   入坑以来的游玩记录，入坑前半年玩的最多，后面渐渐摆烂了</span>
 </p>
@@ -65,8 +65,8 @@ draft: false
 > 第三把一直用到现在，是PLUM84pro 好像是第一版V1的，银轴的  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/OSU/5.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/OSU/6.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/OSU/5.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/OSU/6.webp" border=0 width=330 height=""></td>
 </tr></table>
 <p style="text-align:center"><span  style="color:#e95464; "> 
   图1是84Pro，图2是ctl472</span>
@@ -97,7 +97,7 @@ draft: false
 > 对群bot等查分机器人感兴趣，导致后面自己租服务器，搭建自己的twitter_bot(虽然成功运行一段时间，但是最后服务器被破坏了)  
 > 也学会用obs录制视频，pr压制视频以及用obs在b站直播(好像才直播不到1小时)  
 
-<center><img src="https://image.aulypc0x0.online/data/OSU/7.webp" border=0 width=400 height=""></center>
+<center><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/OSU/7.webp" border=0 width=400 height=""></center>
 <p style="text-align:center"><span  style="color:#e95464; "> 
   22年8月10日 记录twitter_bot成功运行时刻</span>
 </p>
@@ -107,7 +107,7 @@ draft: false
 > 外设的购买以及大量时间的付出  
 > 唉~  
 > 最后于2023年3月30日退坑  
-<center><img src="https://image.aulypc0x0.online/data/OSU/9.webp" border=0 width=400 height=""></center>
+<center><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/OSU/9.webp" border=0 width=400 height=""></center>
 
 :::warning[有缘再见]
 

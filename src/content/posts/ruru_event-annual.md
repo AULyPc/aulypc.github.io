@@ -2,7 +2,7 @@
 title: るる活动年鉴
 published: 2024-08-15
 description: "对同人歌手るる，粉丝向活动整理记录"
-image: "https://image.aulypc0x0.online/data/ruru_annual/1724653481041.png"
+image: "https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/1724653481041.png"
 tags: ["同人音乐", "るる"]
 category: 同人音乐
 draft: false
@@ -19,7 +19,7 @@ Personal summary record, if there is any infringement, please contact me to dele
 |  |     |
 | -: | :- |
 | 名字 |   るる   |
-| icon | <img src="https://image.aulypc0x0.online/data/ruru_annual/ruru_icon.jpg" border=0 width=80 height="">  |
+| icon | <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/ruru_icon.jpg" border=0 width=80 height="">  |
 | 性别 |   女   |
 | 国籍 |   日本  |
 | 活跃时期 |   2021年至今  |
@@ -31,7 +31,7 @@ Personal summary record, if there is any infringement, please contact me to dele
 るる是活跃于niconico动画和YouTube的女性歌手，活跃于同人音乐活动。个人社团名为るるの郵便屋さん(𝘙𝘶𝘳𝘶'𝘴 𝘗𝘰𝘴𝘵 𝘖𝘧𝘧𝘪𝘤𝘦)
 
 # 形象
-<center><td><img src="https://image.aulypc0x0.online/data/ruru_annual/ruru_threeface.jpeg" border=0 width=430 height=""></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/ruru_annual/ruru_threeface.jpeg" border=0 width=430 height=""></td></center>
 
 # 作品
 ## 2023年

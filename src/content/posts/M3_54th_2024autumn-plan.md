@@ -2,7 +2,7 @@
 title: M3-54th(2024年秋)计划
 published: 2024-10-16
 description: '2024秋M3来临之际，简单写点这次感兴趣的专'
-image: 'https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/imgIndex2024a.webp'
+image: 'https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/imgIndex2024a.webp'
 tags: ["同人音乐", "M3-54th"]
 category: '同人音乐'
 draft: false 
@@ -20,18 +20,18 @@ language: ''
 > 说要是有人想要的话就直接留言给他  
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/Kindness_Prism.webp" border=0 width=400 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/color_papers.webp" border=0 width=300 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/Kindness_Prism.webp" border=0 width=400 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/color_papers.webp" border=0 width=300 height=""></td>
     </tr>
 </table>
 
 > 其中『Kindness Prism』这张专辑我很喜欢  
 > 其中尤其是藍月的那一首--『1人じゃない私』  
 > 百听不厌，每次听完都能给人积极向上的力量  
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/Kindness_Prism_jacket.webp" border=0 width=250 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/Kindness_Prism_jacket.webp" border=0 width=250 height=""></td>
 
 <audio id="audio" controls="" preload="true">
-      <source id="mp3" src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/%E8%97%8D%E6%9C%88%E3%81%AA%E3%81%8F%E3%82%8B%26Meis%20Clauson--1%E4%BA%BA%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E7%A7%81.mp3">
+      <source id="mp3" src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/%E8%97%8D%E6%9C%88%E3%81%AA%E3%81%8F%E3%82%8B%26Meis%20Clauson--1%E4%BA%BA%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E7%A7%81.mp3">
 </audio>
 
 > Kindness Prism的色纸也很漂亮  
@@ -44,9 +44,9 @@ language: ''
 > 于是就出现一段对话出现三种语言的场面  
 > 『inform_lead』这张专也不错，但考虑到预算，还是下次吧  
 
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/3language.webp" border=0 width=500 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/3language.webp" border=0 width=500 height=""></td>
 
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/inform_lead_jacket.webp" border=0 width=350 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/inform_lead_jacket.webp" border=0 width=350 height=""></td>
 
 </details>
 
@@ -88,10 +88,10 @@ language: ''
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/gallery1.webp" border=0 width=600 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/gallery1.webp" border=0 width=600 height=""></td>
     </tr>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/ruru_goods.webp" border=0 width=600 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/ruru_goods.webp" border=0 width=600 height=""></td>
     </tr>
 </table>
 
@@ -118,7 +118,7 @@ language: ''
 > 结合xfd中开头3D红跑车  
 > 算是给人惊喜了  
 > 整体还是很潮流很潮的感觉  
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/burn-you-out.webp" border=0 width=600 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/burn-you-out.webp" border=0 width=600 height=""></td>
 
 > 说起来这几天突然收到转运仓库的邮件  
 > 但是我查遍了booth都找不到对应的订单  
@@ -130,7 +130,7 @@ language: ''
 > 但我内容物只有一个钥匙扣  
 > 好像只有yuno签，没to  
 
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/yuno_key.webp" border=0 width=600 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/yuno_key.webp" border=0 width=600 height=""></td>
 
 </details>
 
@@ -144,14 +144,14 @@ language: ''
 > 特点就是眼睛没高光(  
 > 这次给乃花画的专封却显得有点可爱  
 > 是带了眼镜的缘故吗  
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/PURPLE_HOLIC.webp" border=0 width=400 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/PURPLE_HOLIC.webp" border=0 width=400 height=""></td>
 
 > 乃花算是我D的比较早的一位了  
 > 记得是22年的样子  
 > 在doujin的网站上偶然看到一位可爱白发少女的形象  
 > 于是就认识了乃花  
 > 开启了我的DD之旅x  
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/%E3%81%93%E3%82%88%E3%82%8A%E3%81%93%E3%82%8C%E3%81%8F%E3%81%97%E3%82%87%E3%82%93.webp" border=0 width=400 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/%E3%81%93%E3%82%88%E3%82%8A%E3%81%93%E3%82%8C%E3%81%8F%E3%81%97%E3%82%87%E3%82%93.webp" border=0 width=400 height=""></td>
 
 </details>
 
@@ -166,7 +166,7 @@ language: ''
 > 这次結崎有理的新专『Imaginary Blue』  
 > 专封让人眼前一亮  
 > 画师是[Noyu](https://x.com/noyu23386566)
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/Imaginary_Blue.webp" border=0 width=600 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/Imaginary_Blue.webp" border=0 width=600 height=""></td>
 
 > 亚力克砖也很心动  
 > 但是担心场贩会磕磕碰碰  
@@ -190,7 +190,7 @@ language: ''
 > 所以音游味很重  
 > 当天晚上也是在fanbox发布了取置，以及通贩  
 
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/Yuzurisa15-2024m3.webp" border=0 width=600 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/Yuzurisa15-2024m3.webp" border=0 width=600 height=""></td>
 
 
 </details>
@@ -214,7 +214,7 @@ language: ''
 > 都说Imy卖的不是专，是鬼猫老师的画  
 > 这话还是有一定的道理的  
 
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/Imy_Official-1844350078754128353-01.webp" border=0 width=600 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/Imy_Official-1844350078754128353-01.webp" border=0 width=600 height=""></td>
 
 > 说起来，自从藍月没参加Imy后  
 > 好像有两三张专没买了  
@@ -228,8 +228,8 @@ language: ''
 > 这次推出一种artbook形式的cd壳，里面还有画页  
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/artbook_imy.webp" border=0 width=300 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/colorpaper_imy.webp" border=0 width=400 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/artbook_imy.webp" border=0 width=300 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/colorpaper_imy.webp" border=0 width=400 height=""></td>
     </tr>
 </table>
 
@@ -240,14 +240,14 @@ language: ''
   
 > 有时候刷推刷多了能经常看到鈴湯小姐发的自拍  
 > 前段时间在宣传少女群像曲的活动  
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/sb_szy.webp" border=0 width=600 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/sb_szy.webp" border=0 width=600 height=""></td>
 
 
 > 之前还在booth上买了几张鈴湯小姐的专辑  
 > 还能附加to签  
 > 太好了吧  
 
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/lingtang_booth.webp" border=0 width=600 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/lingtang_booth.webp" border=0 width=600 height=""></td>
 
 </details>
 
@@ -260,8 +260,8 @@ language: ''
 > 当时听完xfd真的给我惊呆了  
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A.webp" border=0 width=350 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/Beyond.webp" border=0 width=350 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A.webp" border=0 width=350 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/Beyond.webp" border=0 width=350 height=""></td>
     </tr>
 </table>
 
@@ -279,7 +279,7 @@ language: ''
 > 然后其他的歌手也都是老熟人  
 > 意外的听起来不错  
 > 遂决定入手一张  
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/Heritage_of_Summer.webp" border=0 width=700 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/Heritage_of_Summer.webp" border=0 width=700 height=""></td>
 
 </details>
 
@@ -289,12 +289,12 @@ language: ''
 > 大概是没新专  
 > 那就补点旧专吧  
 > 放一张之前活动的品书  
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/Yumeno_Yuki-1837130717366735352-01.webp" border=0 width=500 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/Yumeno_Yuki-1837130717366735352-01.webp" border=0 width=500 height=""></td>
 
 > 2024.10.21更新  
 > 周末也是出新专xfd了  
 > 7th mini 『オールユーニードイズオーディナリーズ』  
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/mengnai_M3_2024aki_jak.webp" border=0 width=450 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/mengnai_M3_2024aki_jak.webp" border=0 width=450 height=""></td>
 
 
 </details>
@@ -306,7 +306,7 @@ language: ''
 > 我承认我是先被封面吸引进来的  
 > 声音也很好听  
 > 愿望单+1  
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/Milky_Dawn.webp" border=0 width=700 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/Milky_Dawn.webp" border=0 width=700 height=""></td>
 
 </details>
 
@@ -318,7 +318,7 @@ language: ''
 > 上一作是『失明』，这次是『失忆』  
 > 闻到了刀子的味道  
 
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/takanoESA-1845811431012553040-01.webp" border=0 width=700 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/takanoESA-1845811431012553040-01.webp" border=0 width=700 height=""></td>
 
 > 很意外的乃花也参与到这次续作的制作中  
 > 担当エリスの妹・カミル(爱丽丝的妹妹·卡米尔)这一角色  
@@ -327,7 +327,7 @@ language: ''
 > 我试着扔给AI试着用ANSI、进制等方式解读  
 > 但都无功而返  
 
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/shuzi.webp" border=0 width=600 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/shuzi.webp" border=0 width=600 height=""></td>
 
 > 2024.10.21更新  
 > 昨天在油管上发了一个短视频  
@@ -346,6 +346,6 @@ language: ''
 > 一看作词作曲  
 > paspal啊，那没事了  
 > 最后还有2首音声  
-<td><img src="https://image.aulypc0x0.online/data/M3_54th_2024autumn-plan/s2eeeet%E2%99%A1obsession!!.webp" border=0 width=500 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/M3_54th_2024autumn-plan/s2eeeet%E2%99%A1obsession!!.webp" border=0 width=500 height=""></td>
 
 </details>

@@ -2,7 +2,7 @@
 title: 2024端午团建Day3
 published: 2024-06-19
 description: "2024端午团建Day3"
-image: "https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115529_1.webp"
+image: "https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115529_1.webp"
 tags: ["日常", "团建"]
 category: 日常
 draft: false
@@ -16,7 +16,7 @@ draft: false
 # Day 3
 
 ## 早起依旧是不可能的 
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/zaoqi.webp" border=0 width=250 height=""></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/zaoqi.webp" border=0 width=250 height=""></td></center>
 
 ## 立刻赶到战场的是--水族馆
 
@@ -26,13 +26,13 @@ draft: false
 > 今天依旧好热  
 > 等集合完毕后，买票、入场  
 
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_105531.webp" border=0 width=250 height="" title="售票处"></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_105531.webp" border=0 width=250 height="" title="售票处"></td></center>
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_111439.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_111558.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_111637.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_111439.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_111558.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_111637.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 
@@ -49,15 +49,15 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_111921.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_112042.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_112225.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_111921.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_112042.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_112225.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_112458.webp" border=0 width=400 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_112944.webp" border=0 width=400 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_112458.webp" border=0 width=400 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_112944.webp" border=0 width=400 height=""></td>
     </tr>
 </table>
 
@@ -66,31 +66,31 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_113007.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_113031.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_113327.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_113007.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_113031.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_113327.webp" border=0 width=250 height=""></td>
     </tr>
     <tr>
       <td colspan="3"><p style="text-align:center;color:#7058a3;font-size:1.0em;"> 在隧道里看的什么什么鲨鱼x </p></td>
     </tr>
 </table>
 
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_113603.webp" border=0 width=400 height="" title=""></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_113603.webp" border=0 width=400 height="" title=""></td></center>
 <p style="text-align:center;color:#7058a3;font-size:1.1em;"> 可爱滴捏~ </p>
 
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_114254.webp" border=0 width=400 height="" title=""></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_114254.webp" border=0 width=400 height="" title=""></td></center>
 <p style="text-align:center;color:#0094c8;font-size:1.2em;"> 心心念念的水母世界 </p>
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_114320.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_114325.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_114405.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_114320.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_114325.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_114405.webp" border=0 width=250 height=""></td>
     </tr>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_114447.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_114522.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_114513.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_114447.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_114522.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_114513.webp" border=0 width=250 height=""></td>
     </tr>
     <tr>
       <td colspan="3"><p style="text-align:center;color:#0094c8;font-size:1.1em;"> 海月水母 </p></td>
@@ -103,14 +103,14 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115034.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115044.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115109.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115034.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115044.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115109.webp" border=0 width=250 height=""></td>
     </tr>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115124.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115244.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115254.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115124.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115244.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115254.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 
@@ -129,14 +129,14 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_114851.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115144.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115151.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_114851.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115144.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115151.webp" border=0 width=250 height=""></td>
     </tr>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115153.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115311.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115328.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115153.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115311.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115328.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 
@@ -152,23 +152,23 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115422.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115426.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115437.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115422.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115426.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115437.webp" border=0 width=250 height=""></td>
     </tr>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115529.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115501.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115529_1.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115529.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115501.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115529_1.webp" border=0 width=250 height=""></td>
     </tr>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115532.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115649.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115659.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115532.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115649.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115659.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/susheng.webp" border=0 width=400 height="" title=""></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/susheng.webp" border=0 width=400 height="" title=""></td></center>
 
 > 海月水母  
 > 这几张拍的角度很好  
@@ -186,25 +186,25 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115740.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115848.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120203.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115740.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115848.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120203.webp" border=0 width=250 height=""></td>
     </tr>
     <tr>
       <td colspan="3">其它种类的水母</td>
     </tr>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115923.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_115952.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120009.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115923.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_115952.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120009.webp" border=0 width=250 height=""></td>
     </tr>
     <tr>
       <td colspan="3">头部下面的一圈，看起来像是在发光一样，很奇妙的感觉</td>
     </tr>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120024.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120036.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120045.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120024.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120036.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120045.webp" border=0 width=250 height=""></td>
     </tr>
     <tr>
       <td colspan="3"><p style="text-align:center;color:#9d5b8b;font-size:1.1em;"> 触手好长 </p></td>
@@ -220,26 +220,26 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/asmr1.webp" border=0 width=350 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/asmr2.webp" border=0 width=350 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/asmr1.webp" border=0 width=350 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/asmr2.webp" border=0 width=350 height=""></td>
     </tr>
 </table>
 <p style="text-align:center;color:#44617b;font-size:1.1em;"> RJ247727 and RJ237618 </p>
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120313.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120324.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120333.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120313.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120324.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120333.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 <p style="text-align:center;color:#0094c8;font-size:1.1em;"> 能吃的海蜇x </p>
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120515.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120623.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120634.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120515.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120623.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120634.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 
@@ -250,9 +250,9 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120705.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120810.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240610_120846.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120705.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120810.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240610_120846.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 
@@ -282,7 +282,7 @@ draft: false
 > 有新的旅行伙伴加入了哦~  
 > 餐后又开始打uno了  
 
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/uno_2.webp" border=0 width=300 height="" title=""></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/uno_2.webp" border=0 width=300 height="" title=""></td></center>
 <p style="text-align:center;color:#0094c8;font-size:1.1em;"> 安洁的手牌 </p>
 
 > 期间玩了真心话，第一名询问最后一名关于同音的问题  
@@ -290,8 +290,8 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/822.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/1662.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/822.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/1662.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 
@@ -317,7 +317,7 @@ draft: false
 > 晚上  
 > 马鹿、马鹿学弟、萤烛、马鹿学长(ASPHAT)以及我  
 > 5人在附近找了家烤串店聚餐  
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/kaorou.webp" border=0 width=300 height="" title=""></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/kaorou.webp" border=0 width=300 height="" title=""></td></center>
 <p style="text-align:center;color:#0094c8;font-size:1.1em;"> 肉串视角x </p>
 
 > 听马鹿同校三人以及萤烛聊他们大学里发生的一些事  
@@ -336,7 +336,7 @@ draft: false
 > 脚都开心炸了(物理)  
 > 三天走了4w2的步数  
 > 我之前休息日步数仅仅有16  
-<center><td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/bushu.webp" border=0 width=400 height="" title=""></td></center>
+<center><td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/bushu.webp" border=0 width=400 height="" title=""></td></center>
 
 > 这次结识了新朋友，又重见了老朋友  
 > 说新朋友也不太合适，天天在群里见()  
@@ -344,9 +344,9 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240611_005028.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240611_005107.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/IMG_20240611_005052.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240611_005028.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240611_005107.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/IMG_20240611_005052.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 
@@ -359,9 +359,9 @@ draft: false
 
 <table>
     <tr>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/cui_1.jpg" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/cui_3.webp" border=0 width=250 height=""></td>
-        <td><img src="https://image.aulypc0x0.online/data/2024_duanwu_Day3/cui_4.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/cui_1.jpg" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/cui_3.webp" border=0 width=250 height=""></td>
+        <td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/2024_duanwu_Day3/cui_4.webp" border=0 width=250 height=""></td>
     </tr>
 </table>
 

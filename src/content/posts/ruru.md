@@ -2,7 +2,7 @@
 title: るる
 published: 2024-03-29
 description: ""
-image: "https://image.aulypc0x0.online/data/ruru/1.webp"
+image: "https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/ruru/1.webp"
 tags: ["同人音乐", "るる"]
 category: 同人音乐
 draft: false
@@ -33,8 +33,8 @@ draft: false
 > 后面找的代购也是很顺利的拿到这次的新谱
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/ruru/3.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/ruru/2.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/ruru/3.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/ruru/2.webp" border=0 width=330 height=""></td>
 </tr></table>
 
 > 2023秋M3新专叫『Prima Littera』，是一张以信件为主题的专辑  
@@ -67,6 +67,6 @@ draft: false
 > 后面又上架了好多  
 > 于是和立牌、吧唧一起买了  
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/ruru/ruru_sign.jpg" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/ruru/ruru_lipai.jpg" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/ruru/ruru_sign.jpg" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/ruru/ruru_lipai.jpg" border=0 width=330 height=""></td>
 </tr></table>

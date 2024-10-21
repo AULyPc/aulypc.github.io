@@ -2,7 +2,7 @@
 title: 给你的Fuwari添加一个友链页面
 published: 2024-09-04
 description: '给你的Fuwari添加一个友链页面'
-image: 'https://image.aulypc0x0.online/img/20220728_195930.webp'
+image: 'https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/img/20220728_195930.webp'
 tags: [Fuwari, 搭建]
 category: '网站'
 draft: false 
@@ -85,7 +85,7 @@ language: ''
 > :::note[创建卡片效果友链]
 > 此部分代码参考[La02^](https://la02w.github.io/links/)大佬的页面
 > :::
-> <img src="https://image.aulypc0x0.online/data/how_to_build_your_website/friends_card.png" width="70%" title="友链卡片效果"/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/how_to_build_your_website/friends_card.png" width="70%" title="友链卡片效果"/>
 > 
 > 在之前创建的 ```friends.astro``` 文件中编辑  
 > :::warning[注意]

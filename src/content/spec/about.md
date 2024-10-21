@@ -30,7 +30,7 @@
 > 是Falcom制作的游戏《英雄传说 空之轨迹FC》的片尾曲，在FC结束之前它只是一首口琴独奏的轻音乐  
 > 当时是因为知道了这首歌，才成为我入坑口琴的契机  
 > 所以就一直用到现在，但口琴早已退坑  
-> 自己最喜欢的[天狼星scx48](https://image.aulypc0x0.online/data/system/scx48.jpg)，也卖给了别人  
+> 自己最喜欢的[天狼星scx48](https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/system/scx48.jpg)，也卖给了别人  
 > 
 > 大学时进入同人音乐这个坑x，后面一起参加过几次live以及线下团建活动  
 > 和许多同好见面，为了方便称呼又用了``spy``这个代号  

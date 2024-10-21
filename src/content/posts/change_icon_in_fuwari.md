@@ -2,7 +2,7 @@
 title: 替换Fuwari图标ICON
 published: 2024-09-04
 description: '替换Fuwari图标ICON'
-image: 'https://image.aulypc0x0.online/img/513323.webp'
+image: 'https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/img/513323.webp'
 tags: [Fuwari, 搭建]
 category: '网站'
 draft: false 
@@ -12,8 +12,8 @@ language: ''
 [bluearchive.jp](https://bluearchive.jp/fankit)
 :::
 > ### 更换图标
-> <img src="https://image.aulypc0x0.online/data/how_to_build_your_website/icon_before.png" width="50%" title="默认图标"/>
-> <img src="https://image.aulypc0x0.online/data/how_to_build_your_website/icon_after.png" width="50%" title="默认图标"/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/how_to_build_your_website/icon_before.png" width="50%" title="默认图标"/>
+> <img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/how_to_build_your_website/icon_after.png" width="50%" title="默认图标"/>
 > 
 > :::note
 > icon图标的[网站](https://icones.js.org/)

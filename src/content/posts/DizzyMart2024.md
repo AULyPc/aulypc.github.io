@@ -2,7 +2,7 @@
 title: DizzyMart2024
 published: 2024-05-14
 description: "国内第一届同人音乐展"
-image: "https://image.aulypc0x0.online/data/DizzyMart2024/dizzymart2024.webp"
+image: "https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/dizzymart2024.webp"
 tags: ["同人音乐", "DizzyMart"]
 category: 日常
 draft: false
@@ -26,9 +26,9 @@ draft: false
 > 同时也做了自己的名牌（扫描右下二维码可以跳转到我的博客，左下条形码也是有信息在里面，但是微信和QQ好像都识别不出来）  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640228.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640255.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666639938.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640228.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640255.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666639938.webp" border=0 width=330 height=""></td>
 </tr></table>
 
 > 之后封上信封，整理好出行的物品，备了一点水和吃的  
@@ -40,9 +40,9 @@ draft: false
 > 在高铁上和各歌姬的音乐中度过这三小时，可能因为亢奋的原因，丝毫不感觉到疲惫  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640046.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640126.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640069.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640046.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640126.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640069.webp" border=0 width=330 height=""></td>
 </tr></table>
 
 > 9点到达上海站，坐地铁预计需要半个小时，因为买的是普通票，10点入场，完全来的及  
@@ -75,17 +75,17 @@ draft: false
 > 导致risa旁的摊位：兔团、幽闭等几个摊位被队伍挡着了...  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640200.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640033.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640058.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640200.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640033.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640058.webp" border=0 width=330 height=""></td>
 </tr></table>
 
 > risa摊位的队伍快排到了门口，感觉我排了好久  
 > 快排到我时，把准备好的名牌、准备送出的明信片以及一专的歌词本准备好  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640219.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640209.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640219.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640209.webp" border=0 width=330 height=""></td>
 </tr></table>
 
 > 轮到我时，专辑果然全部没了，只剩周边了  
@@ -98,7 +98,7 @@ draft: false
 > 和risa的合影pose  
 
 <table><tr>
-<td><center><img src="https://image.aulypc0x0.online/data/DizzyMart2024/pose.webp" border=0 width=430 height=""></center></td>
+<td><center><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/pose.webp" border=0 width=430 height=""></center></td>
 </tr></table>
 
 > 合影完毕我把一专的歌词本给risa，顺便把我的名牌摘下给risa，risa看到我名牌后很惊讶  
@@ -119,7 +119,7 @@ draft: false
 > 在risa群和dm群问了几次都没人找我（  
 
 <table><tr>
-<td><center><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640176.webp" border=0 width=430 height=""></center></td>
+<td><center><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640176.webp" border=0 width=430 height=""></center></td>
 </tr></table>
 
 > 后面出了展厅接了少爷，然后陪少爷一起去排队，排了几分钟才发现这是mikito的签售的队伍😓  
@@ -131,7 +131,7 @@ draft: false
 > 后面先和少爷在附件找了个宾馆，期间又小孩子了x  
 
 <table><tr>
-<td><center><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640136.webp" border=0 width=430 height=""></center></td>
+<td><center><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640136.webp" border=0 width=430 height=""></center></td>
 </tr></table>
 
 > 电则之前摊位宣传时，我对一个ba二创的CD比较感兴趣  
@@ -143,8 +143,8 @@ draft: false
 > 还有，不愧是国产亚克力，CD掏出来的一瞬间，就能感觉到不一样的厚度和分量  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640166.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640024.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640166.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640024.webp" border=0 width=330 height=""></td>
 </tr></table>
 
 > 晚上和群友一起吃了高档牛排？  
@@ -153,16 +153,16 @@ draft: false
 > 后面干脆就去吃甜点DQ，我还是钟爱抹茶和奶绿的味道  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640114.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640102.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640114.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640102.webp" border=0 width=330 height=""></td>
 </tr></table>
 
 > 之后本打算去百联，但是时间可能太晚了，于是和少爷回到宾馆，一觉睡到第二天10点左右  
 > 顺便放一张会场旁的夜景，以及第二天的演出时间表  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640090.webp" border=0 width=330 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640080.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640090.webp" border=0 width=330 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640080.webp" border=0 width=330 height=""></td>
 </tr></table>
 
 > 起床就临近中午，就顺便吃了M记当午饭，随后进了会场  
@@ -189,25 +189,25 @@ draft: false
 > 后面和群友吃了披萨后，一起在签名墙旁合了影  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640003.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666786590.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666640014.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640003.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666786590.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666640014.webp" border=0 width=220 height=""></td>
 </tr></table>
 
 > 和少爷赶去高铁站，少爷飞奔赶车的样子(少爷别挂我o(╥﹏╥)o)
 > 结果，少爷没能赶上回去的高铁，重新买了另外一趟的  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715666639963.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715666639963.webp" border=0 width=220 height=""></td>
 </tr></table>
 
 > 我差不多凌晨下的高铁，这边下着大雨，耗巨资打车回公寓  
 > 到公寓后整理了本次电则的战利品，推文喜获risa点赞，以及半夜三四点risa在群里的@消息  
 
 <table><tr>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715667637714.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715667637693.webp" border=0 width=220 height=""></td>
-<td><img src="https://image.aulypc0x0.online/data/DizzyMart2024/1715667637704.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715667637714.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715667637693.webp" border=0 width=220 height=""></td>
+<td><img src="https://raw.githubusercontent.com/AULyPc/aulypc_fuwari_blog/main/picture/mypic/data/DizzyMart2024/1715667637704.webp" border=0 width=220 height=""></td>
 </tr></table>
 
 > 这两天累的要死，玩的确实疯过头了  
