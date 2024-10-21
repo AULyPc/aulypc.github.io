@@ -1,0 +1,84 @@
+---
+import { Icon } from 'astro-icon/components'
+import { profileConfig } from '../../config'
+import { url } from '../../utils/url-utils'
+import ImageWrapper from '../misc/ImageWrapper.astro'
+
+const config = profileConfig
+---
+<div class="card-base p-3">
+    <a aria-label="Go to About Page" href={url('/about/')}
+       class="group block relative mx-auto mt-1 lg:mx-0 lg:mt-0 mb-3
+       max-w-[240px] lg:max-w-none overflow-hidden rounded-xl active:scale-95">
+        <div class="absolute transition pointer-events-none group-hover:bg-black/30 group-active:bg-black/50
+        w-full h-full z-50 flex items-center justify-center">
+            <Icon name="fa6-regular:address-card"
+                  class="transition opacity-0 scale-90 group-hover:scale-100 group-hover:opacity-100 text-white text-5xl">
+            </Icon>
+        </div>
+        <ImageWrapper src={config.avatar || ""} alt="Profile Image of the Author" class="mx-auto lg:w-full h-full lg:mt-0 "></ImageWrapper>
+    </a>
+    <div class="px-2">
+        <div class="font-bold text-xl text-center mb-1 dark:text-neutral-50 transition">{config.name}</div>
+        <div class="h-1 w-5 bg-[var(--primary)] mx-auto rounded-full mb-2 transition"></div>
+        <div class="text-center text-neutral-400 mb-2.5 transition">{config.bio}</div>
+        <div class="flex gap-2 justify-center mb-1">
+            {config.links.length > 1 && config.links.map(item =>
+                    <a rel="me" aria-label={item.name} href={item.url} target="_blank" class="btn-regular rounded-lg h-10 w-10 active:scale-90">
+                        <Icon name={item.icon} class="text-[1.5rem]"></Icon>
+                    </a>
+            )}
+            {config.links.length == 1 && <a rel="me" aria-label={config.links[0].name} href={config.links[0].url} target="_blank"
+                                            class="btn-regular rounded-lg h-10 gap-2 px-3 font-bold active:scale-95">
+                <Icon name={config.links[0].icon} class="text-[1.5rem]"></Icon>
+                {config.links[0].name}
+            </a>}
+        </div>
+    </div>
+
+<!--在社交栏增加第二栏rss等长方形按钮 -->
+    <div class="flex gap-2 justify-center mb-1">
+        <a href=mailto:cecilybenson8@gmail.com class="rounded-lg px-3 btn-regular active:scale-95 font-bold gap-2 h-10" aria-label="mail" target=_blank rel="me">
+            <svg class="text-[1.5rem]" data-icon="material-symbols-mail-outline-rounded" height="1em" viewBox="0 0 24 24" width="0.97em">
+                <symbol id="material-symbols-mail-outline-rounded">
+                    <path d="M4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.587 1.413T20 20zM20 8l-7.475 4.675q-.125.075-.262.113t-.263.037t-.262-.037t-.263-.113L4 8v10h16zm-8 3l8-5H4zM4 8v.25v-1.475v.025V6v.8v-.012V8.25zv10z" fill="currentColor"></path>
+                </symbol>
+                <use xlink:href="#material-symbols-mail-outline-rounded"></use>
+            </svg>
+            Email
+        </a>
+        <a href=/rss.xml class="rounded-lg px-3 btn-regular active:scale-95 font-bold gap-2 h-10" aria-label="RSS" target=_blank rel="me">
+            <svg class="text-[1.5rem]" data-icon="material-symbols:rss-feed-rounded" height="1em" viewBox="0 0 24 24" width="0.97em">
+                <symbol id="ai:material-symbols:rss-feed-rounded">
+                    <path d="M5 21q-.825 0-1.412-.587T3 19t.588-1.412T5 17t1.413.588T7 19t-.587 1.413T5 21m13.5 0q-.65 0-1.088-.475T16.9 19.4q-.275-2.425-1.312-4.537T12.9 11.1T9.138 8.413T4.6 7.1q-.65-.075-1.125-.512T3 5.5t.45-1.062t1.075-.363q3.075.275 5.763 1.563t4.737 3.337t3.338 4.738t1.562 5.762q.05.625-.363 1.075T18.5 21m-6 0q-.625 0-1.075-.437T10.85 19.5q-.225-1.225-.787-2.262T8.65 15.35t-1.888-1.412T4.5 13.15q-.625-.125-1.062-.575T3 11.5q0-.65.45-1.075t1.075-.325q1.825.25 3.413 1.063t2.837 2.062t2.063 2.838t1.062 3.412q.1.625-.325 1.075T12.5 21" fill="currentColor"></path>
+                </symbol>
+                <use xlink:href="#ai:material-symbols:rss-feed-rounded"></use>
+            </svg>
+            RSS
+        </a>
+    </div>
+
+<!--在社交栏增加第三栏云盘等长方形按钮 
+    <div class="flex gap-2 justify-center mb-1">
+        <a href="https://www.chess.com/zh" class="rounded-lg px-3 btn-regular active:scale-95 font-bold gap-2 h-10" aria-label="alist" target=_blank rel="me">
+            <svg class="text-[1.5rem]" data-icon="fa6-regular-chess-rook" height="1em" viewBox="0 0 448 512" width="0.97em">
+                <symbol id="fa6-regular-chess-rook">
+                    <path d="M80 80v112c0 2.5 1.2 4.9 3.2 6.4l51.2 38.4c6.8 5.1 10.4 13.4 9.5 21.9L133.5 352H85.2l9.4-85l-40.2-30.2C40.3 226.2 32 209.6 32 192V72c0-22.1 17.9-40 40-40h304c22.1 0 40 17.9 40 40v120c0 17.6-8.3 34.2-22.4 44.8L353.4 267l9.4 85h-48.3l-10.4-93.3c-.9-8.4 2.7-16.8 9.5-21.9l51.2-38.4c2-1.5 3.2-3.9 3.2-6.4V80h-64v24c0 13.3-10.7 24-24 24s-24-10.7-24-24V80h-64v24c0 13.3-10.7 24-24 24s-24-10.7-24-24V80zm4.7 384h278.7l-16.6-32H101.2zm271.9-80c12 0 22.9 6.7 28.4 17.3l26.5 51.2c3 5.8 4.6 12.2 4.6 18.7c0 22.5-18.2 40.8-40.8 40.8H72.8C50.2 512 32 493.8 32 471.2c0-6.5 1.6-12.9 4.6-18.7l26.5-51.2c5.4-10.6 16.4-17.3 28.4-17.3h265zM208 288c-8.8 0-16-7.2-16-16v-48c0-17.7 14.3-32 32-32s32 14.3 32 32v48c0 8.8-7.2 16-16 16z" fill="currentColor"></path>
+                </symbol>
+                <use xlink:href="#fa6-regular-chess-rook"></use>
+            </svg>
+            Chess
+        </a>
+
+        <a href="http://alist.aulypc0x0.online" class="rounded-lg px-3 btn-regular active:scale-95 font-bold gap-2 h-10" aria-label="alist" target=_blank rel="me">
+            <svg class="text-[1.5rem]" data-icon="material-symbols-cloud-download-outline-rounded" height="1em" viewBox="0 0 24 24" width="0.97em">
+                <symbol id="material-symbols-cloud-download-outline-rounded">
+                    <path d="M11 12.15V6.1q-1.9.35-2.95 1.838T7 11h-.5q-1.45 0-2.475 1.025T3 14.5t1.025 2.475T6.5 18h12q1.05 0 1.775-.725T21 15.5t-.725-1.775T18.5 13H17v-2q0-1.2-.55-2.238T15 7V4.675q1.85.875 2.925 2.588T19 11q1.725.2 2.863 1.488T23 15.5q0 1.875-1.312 3.188T18.5 20h-12q-2.275 0-3.887-1.575T1 14.575q0-1.95 1.175-3.475T5.25 9.15q.425-1.8 2.125-3.425T11 4.1q.825 0 1.413.588T13 6.1v6.05l.9-.875q.275-.275.688-.275t.712.3q.275.275.275.7t-.275.7l-2.6 2.6q-.3.3-.7.3t-.7-.3l-2.6-2.6q-.275-.275-.287-.687T8.7 11.3q.275-.275.688-.288t.712.263zm1-1.1" fill="currentColor"></path>
+                </symbol>
+                <use xlink:href="#material-symbols-cloud-download-outline-rounded"></use>
+            </svg>
+            Alist
+        </a>
+    </div>
+ -->
+</div>
